@@ -23,6 +23,6 @@ spring:
       timeout: 10000
 
 pythonconfig:
-  anacondaPrefix: D:\anaconda\envs\mmcv\python
-  execPrefix: D:\MyPaper\deep-learning-for-image-processing\pytorch_object_detection\retinaNet\predict.py
+  anacondaExecutor: D:\anaconda\envs\pytorch\python.exe
+  scriptPath: D:\MyPaper\deep-learning-for-image-processing\pytorch_object_detection\retinaNet\predict.py
 
